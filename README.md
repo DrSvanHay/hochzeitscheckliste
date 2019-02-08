@@ -11,4 +11,4 @@ Dieses Dokument ist in Arbeit, kannst gerne lesen, aber es ändert sich natürli
 <li>Macht euch eine Liste von möglichen Hochzeits-Locations</li>
 </ol>
 <h2>In Arbeit</h2>
-Entscheidet euch für ein <a href="https://glueckundsegen.de/stammbuch/">Stammbuch und ein Gästebuch</a>, oder eine der schönen Erinnerungsboxen?
+Entscheidet euch für ein <a href="https://glueckundsegen.de/stammbuch/">Stammbuch und ein Gästebuch</a>, oder eine der so genannten Erinnerungsboxen?
