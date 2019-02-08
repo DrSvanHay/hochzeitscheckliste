@@ -1,5 +1,6 @@
 
-Dieses Dokument ist in Arbeit, kannst gerne lesen, aber es ändert sich natürlich noch.
+Dieses Dokument ist in Arbeit, kannst gerne lesen, aber es ändert sich natürlich noch. Wenn Du etwas beitragen möchtest oder ein Feedback geben möchtest, melde Dich doch einfach bei mir!
+
 <h1>Die ultimative Hochzeits-Checkliste</h1>
 <h2>Sofort nach dem Heiratsantrag</h2>
 <ol>
