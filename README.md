@@ -5,6 +5,7 @@ Dieses Dokument ist in Arbeit, kannst gerne lesen, aber es ändert sich natürli
 <h2>Sofort nach dem Heiratsantrag</h2>
 <ol>
 <li>Setzt Dich mit Deiner besseren Hälfte hin und tüftle aus, wie ihr euch die ideale Hochzeit vorstellt.</li>
+  <li>Wird es nur eine standesamtliche Trauung geben, oder auch eine kirchliche oder freie Trauung?</li>
 <li>Plant, wie viel Geld ihr für die Hochzeit ausgeben wollt und könnt.</li>
 <li>Wen wollt ihr einladen? Macht einen ersten Entwurf der Gästeliste, das ist zum Beispiel wichtig für die Hochzeitslocation.</li>
 <li>Überlegt euch mögliche Termine für die Hochzeit und checkt die Termine mit den wichtigsten Gästen.</li>
