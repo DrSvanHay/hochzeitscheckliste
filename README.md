@@ -22,5 +22,8 @@ Dieses Dokument ist in Arbeit, kannst gerne lesen, aber es ändert sich natürli
   <li>Druckt »Save the Date« Karten und verschickt sie, je früher desto besser</li>
   <li>Verpflichtet Freunde, die besondere Aufgaben übernehmen sollen schon jetzt</li>
 </ol>
-<h2>In Arbeit</h2>
-Entscheidet euch für ein <a href="https://glueckundsegen.de/stammbuch/">Stammbuch und ein Gästebuch</a>, oder eine der so genannten Erinnerungsboxen?
+<h2>Gegenstände, die ihr vielleicht für die Hochzeit benötigt</h2>
+<ol>
+  <li>Gästebuch oder eine ähnliche Aktivität</li>
+  <li><a href="https://glueckundsegen.de/stammbuch/">Stammbuch</a> für die standesamtliche Trauung</li>
+</ol>
